@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Adapter</string>
+    <string name="button">Toggle Silent Mode</string>
+    <string name="button4">Check Connectivity</string>
+</resources>
